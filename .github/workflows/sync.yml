@@ -18,7 +18,7 @@ jobs:
       - name: Push to Gitee
         env:
           GITEE_TOKEN: ${{ secrets.GITEE_PASSWORD }}
-          GITEE_USER: "525496107@qq.com"  # 或者你的 Gitee 用户名
+          GITEE_USER: "flyoob"  # 请确保这里是你的 Gitee 用户名或注册邮箱
           DEST_REPO: "gitee.com/flyoob/playlist.git"
         run: |
           git remote add gitee https://${{ env.GITEE_USER }}:${{ env.GITEE_TOKEN }}@${{ env.DEST_REPO }}
