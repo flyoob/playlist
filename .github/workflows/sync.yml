@@ -3,7 +3,7 @@ name: Sync GitHub to Gitee
 on:
   push:
     branches:
-      - main  # 如果你的默认分支是 master，请改成 master
+      - main  # 如果你的默认分支是 master，请修改此处
   workflow_dispatch:
 
 jobs:
@@ -16,11 +16,10 @@ jobs:
           fetch-depth: 0
 
       - name: Push to Gitee
-        uses: wearerequired/git-mirror-action@v1
         env:
-          SSH_PRIVATE_KEY: ${{ secrets.GITEE_SSH_PRIVATE_KEY }} # 如果用密码/Token可以忽略这行，用下面的
-        with:
-          source-repo: ""
-          destination-repo: "https://gitee.com/flyoob/playlist.git"
-          user: "525496107@qq.com"
-          password: ${{ secrets.GITEE_PASSWORD }}
+          GITEE_TOKEN: ${{ secrets.GITEE_PASSWORD }}
+          GITEE_USER: "525496107@qq.com"  # 或者你的 Gitee 用户名
+          DEST_REPO: "gitee.com/flyoob/playlist.git"
+        run: |
+          git remote add gitee https://${{ env.GITEE_USER }}:${{ env.GITEE_TOKEN }}@${{ env.DEST_REPO }}
+          git push --force gitee main:main  # 如果是 master 分支请把两个 main 改为 master
