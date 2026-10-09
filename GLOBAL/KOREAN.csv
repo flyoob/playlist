@@ -4,31 +4,24 @@ Big B Radio - Kpop	https://antares.dribbcast.com/proxy/kpop?mp=/s	0	Music
 ARA FM	http://141.164.38.238/listen/ara_fm/radio.mp3	0	Other
 YTN 라디오	https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8	0	Other
 Listen.moe Kpop	https://listen.moe/kpop/stream	0	Music
-MBC FM4U	https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=66E14E1AF3BD3D44F143159239113D4015623615C20462C2304065aAB68D34463DaDA37D39B22F4CE0773AA10Fb6F19C571BC82E88E43AAAC94602FCACB374B3CEED7645D9FDFB520F9CA07C99FAF478DBE6249B605D8403EE267F373955056A8DC5A07D8521FC3FA11D9F57B2B5222C	0	Other
 MBC충북 표준FM	http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8	0	Other
-MBC FM	https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6441A81B233F37648D40550839314A45958935F58602027C3C1069aC862B3CC631aD33463162C74630FE3C117Fb7C138AB35A14B73C0F777212AFD9D3761E4C2CADF343B2A42B89748F6493EAF65E7A54355C666498A7BEBF6E3BD33371D992C67A75F2BC2C2709D6064E2C7A00D9022	0	Other
 하늘호수24	https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8	0	Other
-KBS Classic FM	https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA5NzExODd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=R0v3tFLY58fqbnvNMHJemq8xKZBA3AFEA9xQQU6vKSQ67EX5Ag1gY5OJ-aMMynNmTXBs3f-TuKXG~a2v4YxJU5JuoRO4UGMiR37UXlde9O5P3GsBf~ZISWe3LpDacBWe4EOG4nAyqfVwwEAom3i3A6wCZYVD~NwWj9M9AN5WO5vADQyxwXlHqxv9KnN9MqrmFBiQFlSqgndAtfY~zWFvI0jryjg9Z2uEBte3-ljKW-naaOK2WPm8Brx9KwqRtDBljc3XXpn5hH08GFSOtYOKQFvPNtU3I47hMCkDPKUYHlBb-7Q-7wwyOaMbLykeQPfuavUPJOinABNmv1is7~0G4Q__	0	Other
 KCBS 조선중앙방송	https://stream.intchoson.com/kcbs/main_stream.m3u8	0	Other
 (BSOD) MBC mini All-That-Music	https://radio.bsod.kr/stream/?stn=mbc&ch=chm	0	Music
 SBS PopAsia	https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web	0	Music
 CBS 파워라디오 [Music FM]	https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3	0	Music
 TBS FM 95.1	https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8	0	Other
 Listen.moe Kpop (MP3)	https://listen.moe/kpop/fallback	0	Music
-SBS Power FM	https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA4Nzc2MDksInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImI5NmQzMTY4LTkzNGQtNDA3Ni1hMWQwLWZiZmU2NWQ4YzI1NCIsImlhdCI6MTc5MDgzNDQwOX0.BcacPCOW3gcR58ZAmdEkySqLwkYy06jjpygiC7lo97k	0	Other
 Voice of Chongro	https://stream.zeno.fm/oldwnjuma3duv	0	Other
 조선의 소리 방송 Voice of Korea	https://stream.intchoson.com/vok/main_stream.m3u8	0	Other
 Oldpop Cafe	http://cast.oldpopcafe.net:7080/	0	Music
-KBS Cool FM	https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTEwMzIzOTh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=nX8Qjuw0Y2ZLexKH0Rfm~qe4KH~SLmK52Hin~iZ-74Qt3cGScR92QIsbKh0cqq3eBkxGATnWlb8RLn076rCRLVh4u21uMLvlk2TQa5yHSa8rjsWJkOEOriQKmDKzJ~UYWJvGjfz2XUDygasfm6ecljOy3Q2d7NAr7s0sn~Gq1gU-OculsoPnmpWCBtMKLQSwIABqRO8Qx2jxR~xoezybMsW4S2WTMtCS706sAApu90vV5-L4tyGUZ8cNRcWaGsXFryZuf6bSa4T8uMJPCDW9qu0weePcRcAVbHdt3qqw8mhwkRMZFfxFuMBG4FcS-nUOWMaoQbi6qZdVYrdXG8WLPg__	0	Other
 Big B Radio亚洲音乐台	https://antares.dribbcast.com/proxy/apop?mp=/s	0	Music
-KBS 1Radio	https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-02/2radio-bora-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTAzMTE1M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=VIPctlYiGZkswuwOU2bbTlFdBROaLz9Jofacw8puX0quOsHpeQagnm2q6WEuqgGJUi-JA5GrZNnS3BAB6BtN4DeN-e0M5Go87q5PgY8yMJmC7Z~S3h2uh2AmmC5vPpE0lRH6olwN9KlEU9vymNNgV937GTttGutb9qRVU~ZZxONgqjLkE0pWIAMQ2rX0qFie60T222hGArx7GhBlC0yBTbgX7DAXSbUGp15esFSChHkwNqHDaxJQpln~l~QH~BtKIjRXnaS4tCX8mHB~eUomFgWXCAM67esbmaquCsRlMJbIA74iZWF06orpCGG1YqlyJg5JoDzEDh2msyJm8rrgWg__	0	Other
 NHK World Radio (Korean)	https://master.nhkworld.jp/nhkworld-radio/playlist/rs1/live.m3u8	0	Other
 JeonjuFM	http://radiostream.communityradio.kr/jcfm1	0	Other
 MBC충북 FM4U	http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8	0	Other
 KBS HappyFM	https://radio.bsod.kr/stream/?stn=kbs&ch=2radio&bora=true	0	Other
 평양FM105.2	http://listen7.myradio24.com/69366	0	Other
 OBS 라디오	https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8	0	Other
-KBS 1R	https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTAyMzk3N319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=CYJJi5~WwomYAn~3CGSf~xCc6jRmY8jK0e8eKdjN80UFGt2ixg3MRi49aWJ2i6Obe9tInbPXmhZYchOs0s107eC2yv4jSpOe-Hu4pES4wcfZfaDMneXH50pXUAmFD6OIb31OKXo6St2E9piqs5NdlHCQf-JcCRH8FKOTmC6ocbBP6RZQgjVBpqMzyYx9OC17fbDlvkg1FbY-0Oi~k-C6~8eV2mexa5d3yYBytIdU0RUni2gfhxMx8aDIda~XBcEiWGDQi6l~zsEORvrbTJY9PkhTjAgA~sK3jsHAMiQIVgORKjiKW4sQmXfNmUN3ReVmLhgsdOym81JJoOUM37J4LQ__	0	Other
 "CJRK-FM 102.7 ""East FM"" Toronto, ON  "	https://centova.radioservers.biz/proxy/eastfmc1/stream	0	Other
 OnlyHit K-Pop	https://kpop.onlyhit.us/play	0	Music
 평양FM	https://listen7.myradio24.com/69366	0	Other
@@ -39,7 +32,6 @@ Yggdrasil Radio	http://radio.shirayuki.org:9200/	0	Other
 안동MBC AM	http://andong.webcasting.co.kr:1935/live/amlive/playlist.m3u8	0	Other
 Classic Odyssey	http://live07.inlive.co.kr:21110/	0	Other
 Culture Failure	http://culturefailure.com:8000/;	0	Culture
-SBS Love FM	https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA5MTI0MTQsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZmUxZDkxZjUtODlkNC00OWY1LTkwNmUtMDM4NTY5MjdhMGMwIiwiaWF0IjoxNzkwODY5MjE0fQ.j5kh5mk7nxhlwWjvCoA2eF6zym5w11odWOfoC0YpOLA	0	Other
 CBS JOY4U	https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8	0	Other
 경인방송	https://stream.ifm.kr/live/aod1/playlist.m3u8	0	Other
 韩国音乐台	https://stream.zeno.fm/r0tbse9jnbptv	0	Music
@@ -48,7 +40,6 @@ REPLAY NEWS - 한국어   5분마다 뉴스 라디오	https://replaynewskr.ice.i
 EBS TV-Kids	http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8	0	Kids
 TBN 울산교통방송	http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8	0	Other
 K-RADIO	https://s5.radio.co/s0a9796fe3/listen	0	Other
-kbs	https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTEwMzQ3OTB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=nS-mEXeYJqGDFlXIuND3d6dl68gtIq9z4Q0erOK-nHCSJu392lYaeNHT~NblbZMy1BToC0I35R2VP9bS-l1pJmQbD-7QJh-3bHbBy3-xYxbPO68kGRyibFKlgfF0d4Nm8pU8I25~7TM4YzPyNa5jpHIF-2exQYfKLtOGpAi~7B8mKc-OMNEB6u2DxlhD1h~dJxPfzfajqBjYCBFq0Vbz66~yUQ2K26XttNRThI4uQYMn7UBhLut~oGhJRTcbgYUlNDIrndRpX~Rrqj171tDtZy2gtj3-XmC2FJcS0AabBpC~pmPVnoU5TsAFBmVMMO2Cdp6sbkPt~WEnipK5-E-~SA__	0	Other
 안동MBC FM4U	https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8	0	Other
 EBS TV-2	http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8	0	Other
 ADBT Radio	http://217.79.181.61:8000/;	0	Other
@@ -73,7 +64,6 @@ Buddhist True Network TV	http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8	0	O
 KBS 1RADIO	https://radio.bsod.kr/stream/?stn=kbs&ch=1radio	0	Other
 국방FM	https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8	0	Other
 Classic Odyssey	http://live07.inlive.co.kr:21110/	0	Other
-CPBC	https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA4NDQwMjEsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJkNDcyZjQwYi1hNmVmLTQwMmUtYWRhMy1mNjg5MmNiZWMxMTMiLCJpYXQiOjE3OTA4MDA4MjF9.J9OJN5BUTk4UHqkUl6hkdHnXhz3nTkGn09heiSoTpwk	0	Other
 Vibe Radio 	https://stream.zeno.fm/zf0ac4raqy8uv	0	Other
 96 KOOL FM 	https://stream.zeno.fm/97qzdqafuqzuv	0	Other
 gukak	http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8	0	Other

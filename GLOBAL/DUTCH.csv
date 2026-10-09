@@ -21,7 +21,6 @@ NPO Radio 1	https://icecast.omroep.nl/radio1-sb-aac	0	Other
 538 TOP 50 	http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13AAC.aac	0	Other
 De Tijdloze	http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3	0	Other
 Nostalgie Vlaanderen	https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser	0	Other
-JESUS IS LORD radio	https://stream-285.surfernetwork.com/thdtw5xd9eiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0aGR0dzV4ZDllaXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI0OUMxUU9PMFIyeTl5SThnTno0VTB3IiwiaWF0IjoxNzg1OTU0NjI0LCJleHAiOjE3ODU5NTQ2ODR9.TEC2qyYYTCv3OjNepwCqgyWWPAoxPRanj5XLmznekcA	0	Other
 Willy	https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac	0	Other
 Radio Veronica	https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA	0	Other
 Sky Radio 101 FM	http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3	0	Other
@@ -47,7 +46,6 @@ SLAM! Non Stop	http://stream.radiocorp.nl/web10_mp3	0	Other
 Hardcore Power Radio	https://hardcorepower.beheerstream.nl/8012/stream	0	Other
 Radio 10 non-stop	https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3	0	Other
 Sterren.nl	https://icecast.omroep.nl/radio2-sterrennl-mp3	0	Other
-VRT Radio 1	https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8	0	Other
 NPO Radio 5	http://icecast.omroep.nl/radio5-bb-mp3	0	Other
 Arrow Classic Rock	http://stream.gal.io/arrow	0	Music
 VRT Radio 2 West-Vlaanderen	http://icecast.vrtcdn.be/ra2wvl-high.mp3	0	Other
@@ -59,7 +57,6 @@ Real Hardstyle Radio	https://stream.realhardstyle.nl/	0	Other
 VRT Radio 1	http://icecast.vrtcdn.be/radio1.aac	0	Other
 Klara Continuo	http://icecast.vrtcdn.be/klaracontinuo-high.mp3	0	Other
 Alternative Rock Radio	https://25243.live.streamtheworld.com/KINK_SC	0	Music
-Sky Radio Hits	https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA	0	Other
 192 Radio Veronica	http://server-14.stream-server.nl:8030/	0	Other
 Willy	https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3	0	Other
 Sky Radio Lounge	http://22723.live.streamtheworld.com/SRGSTR07AAC_SC	0	Other
