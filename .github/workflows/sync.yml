@@ -17,7 +17,7 @@ jobs:
 
       - name: Push to Gitee
         env:
-          GITEE_TOKEN: ${{ secrets.GITEE_PASSWORD }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
           GITEE_USER: "flyoob"  # 请确保这里是你的 Gitee 用户名或注册邮箱
           DEST_REPO: "gitee.com/flyoob/playlist.git"
         run: |
