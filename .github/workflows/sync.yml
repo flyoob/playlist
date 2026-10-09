@@ -3,7 +3,7 @@ name: Sync GitHub to Gitee
 on:
   push:
     branches:
-      - master  # 如果你的默认分支是 master，请改成 master
+      - main  # 如果你的默认分支是 master，请改成 master
   workflow_dispatch:
 
 jobs:
