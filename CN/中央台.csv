@@ -35,18 +35,18 @@ CNR-3 音乐之声	http://antiserver.kuwo.cn/anti.s?rid=MUSIC_190038250&response
 CNR-14 香港之声	http://ngcdn002.cnr.cn/live/xgzs/index.m3u8	0	综合
 CCTV-4中文国际欧洲伴音	https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8	0	其他
 CCTV-7国防军事伴音	https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8	0	其他
-CNR-14 香港之聲	https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908181231216&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3	0	其他
-CCTV农业节目伴音	https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8	0	其他
-CNR-7 粵港澳大灣區之聲	https://satellitepull.cnr.cn/live/wxhxzs/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174761752612586&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5	0	其他
 中央人民廣播電台 經濟之聲	http://ngcdn002.cnr.cn/live/jjzs/index.m3u8	0	其他
+CCTV农业节目伴音	https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8	0	其他
+CNR-14 香港之聲	https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908181231216&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3	0	其他
+CNR-7 粵港澳大灣區之聲	https://satellitepull.cnr.cn/live/wxhxzs/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174761752612586&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5	0	其他
 CRI Voice of South China Sea	http://sk.cri.cn/nhzs.m3u8	0	其他
-CNR-15 中国交通广播（辽宁）	https://radio.0472.org/?id=1367	0	交通
 中国宣泄情感摇滚	https://stream.zeno.fm/epio7gie1y7uv	0	音乐
-CGTN Radio - Macau 1341 AM	https://sk.cri.cn/am846.m3u8	0	其他
+CNR-15 中国交通广播（辽宁）	https://radio.0472.org/?id=1367	0	交通
 CRI News Plus AM846	http://sk.cri.cn/am846.m3u8	0	新闻
 CCTV奥林匹克伴音	https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8	0	其他
-CNR-15 中国交通广播	https://ngcdn002.cnr.cn/live/gsgljtgb/index.m3u8	0	交通
+CGTN Radio - Macau 1341 AM	https://sk.cri.cn/am846.m3u8	0	其他
 CRI世界华声	http://sk.cri.cn/hxfh.m3u8	0	其他
+CNR-15 中国交通广播	https://ngcdn002.cnr.cn/live/gsgljtgb/index.m3u8	0	交通
 中国药科大学广播电台	https://stream.zeno.fm/fk6yq08hx38uv	0	其他
 CCTV-少儿伴音	https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8	0	少儿
 CNR-16 中国乡村之声	http://satellitepull.cnr.cn/live/wxxczs/playlist.m3u8?wsSession=91f6d734b85656e7f586e4ea-174708860424584&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6	0	综合
@@ -60,7 +60,7 @@ CNR-17 قازاقشا راديو	http://satellitepull.cnr.cn/live/wxhygb/playlis
 CNR-3	https://ngcdn001.cnr.cn/live/jjzs/index.m3u8	0	其他
 https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8?wsSession=99789a08add4ecdbfe9421e3-173752435390509&wsIPSercert=74983ed8210fffe44d53c2a258bb9a5d	https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8?wsSession=99789a08add4ecdbfe9421e3-173752435390509&wsIPSercert=74983ed8210fffe44d53c2a258bb9a5d	0	其他
 947爱乐厅·中国现场	https://rscdn.ajmide.com/r_3829/nglive_3829.m3u8	0	其他
-CNR-15 中国交通广播河北	https://rscdn.ajmide.com/r_1968/nglive_1968.m3u8	0	交通
 CNR-15 中国交通广播长三角频率	https://rscdn.ajmide.com/r_2919/nglive_2919.m3u8	0	交通
 CNR-15 中国交通广播甘肃	https://rscdn.ajmide.com/r_2865/nglive_2865.m3u8	0	交通
+CNR-15 中国交通广播河北	https://rscdn.ajmide.com/r_1968/nglive_1968.m3u8	0	交通
 上海纪实频道《文化中国》广播版	https://rscdn.ajmide.com/r_3171/nglive_3171.m3u8	0	文艺

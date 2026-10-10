@@ -12,17 +12,17 @@ Shanghai FM 101 上海动感101	https://lhttp.qingting.fm/live/274/64k.mp3	0	其
 第一财经电视伴音	http://a1live.livecdn.yicai.com/live/radio_tv.m3u8	0	财经
 上海新闻广播 FM93.4 AM990	https://lhttp-hw.qtfm.cn/live/270/64k.mp3	0	新闻
 上海东广新闻资讯广播	http://lhttp.qingting.fm/live/275/64k.mp3	0	新闻
-第一财经（一财官网线路）	https://a1live.livecdn.yicai.com/live/yicai_radio.m3u8	0	财经
 江苏交通广播网	http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8?	0	交通
-上海交通广播 FM105.7	https://lhttp-hw.qtfm.cn/live/266/64k.mp3	0	交通
+第一财经（一财官网线路）	https://a1live.livecdn.yicai.com/live/yicai_radio.m3u8	0	财经
 上海戏剧曲艺广播	https://lhttp.qingting.fm/live/269/64k.mp3	0	戏曲
-重庆卫视伴音	https://piccpndali.v.myalicdn.com/audio/chongqing_2.m3u8	0	其他
+上海交通广播 FM105.7	https://lhttp-hw.qtfm.cn/live/266/64k.mp3	0	交通
 上海交通广播	http://lhttp.qingting.fm/live/266/64k.mp3	0	交通
+重庆卫视伴音	https://piccpndali.v.myalicdn.com/audio/chongqing_2.m3u8	0	其他
 阿基米德-健康电台	https://lhttp-hw.qtfm.cn/live/20500232/64k.mp3	0	其他
 上海浦东FM100.1新娱乐广播	http://lhttp.qingting.fm/live/5022341/64k.mp3	0	其他
 上海戏剧曲艺广播 AM1197 FM97.2	https://lhttp-hw.qtfm.cn/live/269/64k.mp3	0	戏曲
-上海天气台	https://lhttp.qtfm.cn/live/20500176/64k.mp3	0	其他
 上海长三角之声广播 FM89.9	https://lhttp-hw.qtfm.cn/live/275/64k.mp3	0	综合
+上海天气台	https://lhttp.qtfm.cn/live/20500176/64k.mp3	0	其他
 LOVE Radio	https://lhttp.qingting.fm/live/273/64k.mp3?app_id=web	0	其他
 上海浦东FM106.5东上海之声	http://lhttp.qingting.fm/live/21355/64k.mp3	0	综合
 爱上海 LIVE 24	https://bp-resource-dfl.bestv.cn/148/3/video.m3u8	0	其他
@@ -33,4 +33,5 @@ LOVE Radio	https://lhttp.qingting.fm/live/273/64k.mp3?app_id=web	0	其他
 东方购物	http://ocj2.kksmg.com/ocj2/ocj2.m3u8	0	其他
 金山人民广播电台	https://lhttp.qingting.fm/live/4022/64k.mp3	0	其他
 闵行综合广播	https://rscdn.ajmide.com/r_1614/nglive_1614.m3u8	0	综合
+长三角公共卫生网络电台	https://rscdn.ajmide.com/r_3142/nglive_3142.m3u8	0	其他
 上海纪实频道《文化中国》广播版	https://rscdn.ajmide.com/r_3171/nglive_3171.m3u8	0	文艺
